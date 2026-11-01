@@ -1,0 +1,6 @@
+{
+  "name": "EyeClinic - Online Eye Care & Appointment Management System",
+  "description": "Comprehensive role-based eye clinic platform featuring slot-based appointments, doctor digital prescriptions, eyewear catalogue with prescription cart, UPI/Razorpay checkout, and multi-role dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
